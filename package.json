@@ -7,14 +7,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "13.4.12",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-qr-code": "^2.0.7"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-qr-code": "latest"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.3.2"
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7"
   }
 }
